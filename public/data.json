@@ -1,14 +1,14 @@
 [
   {
-    "coverImage": "https://ibb.co/55MVbqv",
-    "title": "Introduction to C Programming",
+    "coverImage": "https://i.ibb.co/JzBPDX2/Rectangle-2.png",
+    "title": "Intro to C Programming",
     "description": "This is the first card description.",
     "price": "$10.99",
     "credit": "4",
     "selectButton": "Select"
   },
   {
-    "coverImage": "https://ibb.co/kGj1cS8",
+    "coverImage": "https://i.ibb.co/dfFgK52/Rectangle-2-1.png",
     "title": "Introduction to Algorithms",
     "description": "This is the second card description.",
     "price": "$12.99",
@@ -16,7 +16,7 @@
     "selectButton": "Select"
   },
   {
-    "coverImage": "https://ibb.co/7tWhtdb",
+    "coverImage": "https://i.ibb.co/PGhkGvt/Rectangle-2-2.png",
     "title": "Introduction to C++ for DSA",
     "description": "This is the third card description.",
     "price": "$9.99",
@@ -24,7 +24,7 @@
     "selectButton": "Select"
   },
   {
-    "coverImage": "https://ibb.co/0jPS3B5",
+    "coverImage": "https://i.ibb.co/d0nqybZ/Rectangle-2-3.png",
     "title": "Basic Data Structures",
     "description": "This is the fourth card description.",
     "price": "$14.99",
@@ -32,7 +32,7 @@
     "selectButton": "Select"
   },
   {
-    "coverImage": "https://ibb.co/pZ0MWqp",
+    "coverImage": "https://i.ibb.co/zbnB8dw/Rectangle-2-4.png",
     "title": "Introduction to OOP Python",
     "description": "This is the fifth card description.",
     "price": "$11.99",
@@ -40,7 +40,7 @@
     "selectButton": "Select"
   },
   {
-    "coverImage": "https://ibb.co/QdShQ3H",
+    "coverImage": "https://i.ibb.co/nCd4mN1/Rectangle-2-5.png",
     "title": "Software Engineering",
     "description": "This is the sixth card description.",
     "price": "$13.99",
@@ -48,7 +48,7 @@
     "selectButton": "Select"
   },
   {
-    "coverImage": "https://ibb.co/ZhFjCh1",
+    "coverImage": "https://i.ibb.co/19Pgx9J/Rectangle-2-6.png",
     "title": "AWS, Cloud Computing",
     "description": "This is the seventh card description.",
     "price": "$8.99",
@@ -56,7 +56,7 @@
     "selectButton": "Select"
   },
   {
-    "coverImage": "https://ibb.co/MVLJWmR",
+    "coverImage": "https://i.ibb.co/ts51k9b/Rectangle-3.png",
     "title": "Database (MySQL)",
     "description": "This is the eighth card description.",
     "price": "$15.99",
@@ -64,7 +64,7 @@
     "selectButton": "Select"
   },
   {
-    "coverImage": "https://ibb.co/fYB0VC3",
+    "coverImage": "https://i.ibb.co/GvBPfVZ/Rectangle-3-1.png",
     "title": "Problem-Solving Part",
     "description": "This is the ninth card description.",
     "price": "$10.99",
