@@ -1,74 +1,83 @@
 [
   {
+    "id": 1,
     "coverImage": "https://i.ibb.co/JzBPDX2/Rectangle-2.png",
     "title": "Intro to C Programming",
-    "description": "This is the first card description.",
+    "description": "Learn the fundamentals of C programming language and build a strong foundation in coding.",
     "price": "$10.99",
-    "credit": "4",
+    "credit": 2,
     "selectButton": "Select"
   },
   {
+    "id": 2,
     "coverImage": "https://i.ibb.co/dfFgK52/Rectangle-2-1.png",
     "title": "Introduction to Algorithms",
-    "description": "This is the second card description.",
+    "description": "Master the art of designing and analyzing algorithms to solve complex problems efficiently.",
     "price": "$12.99",
-    "credit": "5",
+    "credit": 1,
     "selectButton": "Select"
   },
   {
+    "id": 3,
     "coverImage": "https://i.ibb.co/PGhkGvt/Rectangle-2-2.png",
     "title": "Introduction to C++ for DSA",
-    "description": "This is the third card description.",
+    "description": "Explore C++ programming in-depth and its applications in Data Structures and Algorithms (DSA).",
     "price": "$9.99",
-    "credit": "5",
+    "credit": 6,
     "selectButton": "Select"
   },
   {
+    "id": 4,
     "coverImage": "https://i.ibb.co/d0nqybZ/Rectangle-2-3.png",
     "title": "Basic Data Structures",
-    "description": "This is the fourth card description.",
+    "description": "Dive into the world of data structures and learn how to efficiently store and manipulate data.",
     "price": "$14.99",
-    "credit": "5",
+    "credit": 5,
     "selectButton": "Select"
   },
   {
+    "id": 5,
     "coverImage": "https://i.ibb.co/zbnB8dw/Rectangle-2-4.png",
     "title": "Introduction to OOP Python",
-    "description": "This is the fifth card description.",
+    "description": "Discover Object-Oriented Programming (OOP) principles using Python for real-world applications.",
     "price": "$11.99",
-    "credit": "5",
+    "credit": 5,
     "selectButton": "Select"
   },
   {
+    "id": 6,
     "coverImage": "https://i.ibb.co/nCd4mN1/Rectangle-2-5.png",
     "title": "Software Engineering",
-    "description": "This is the sixth card description.",
+    "description": "Learn the principles and practices of software engineering to build reliable and scalable software systems.",
     "price": "$13.99",
-    "credit": "2",
+    "credit": 1,
     "selectButton": "Select"
   },
   {
+    "id": 7,
     "coverImage": "https://i.ibb.co/19Pgx9J/Rectangle-2-6.png",
     "title": "AWS, Cloud Computing",
-    "description": "This is the seventh card description.",
+    "description": "Master Amazon Web Services (AWS) and cloud computing to deploy and manage applications at scale.",
     "price": "$8.99",
-    "credit": "5",
+    "credit": 2,
     "selectButton": "Select"
   },
   {
+    "id": 8,
     "coverImage": "https://i.ibb.co/ts51k9b/Rectangle-3.png",
     "title": "Database (MySQL)",
-    "description": "This is the eighth card description.",
+    "description": "Learn the ins and outs of MySQL database management and query optimization for efficient data handling.",
     "price": "$15.99",
-    "credit": "5",
+    "credit": 5,
     "selectButton": "Select"
   },
   {
+    "id": 9,
     "coverImage": "https://i.ibb.co/GvBPfVZ/Rectangle-3-1.png",
-    "title": "Problem-Solving Part",
-    "description": "This is the ninth card description.",
+    "title": "Problem-Solving Part I",
+    "description": "Hone your problem-solving skills through a variety of challenging exercises and real-world scenarios.",
     "price": "$10.99",
-    "credit": "2",
+    "credit": 2,
     "selectButton": "Select"
   }
 ]
